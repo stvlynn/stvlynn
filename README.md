@@ -1,4 +1,4 @@
-# George Steven
+# Hi! I'm George Steven!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;你好!;こんにちは;привет)](https://git.io/typing-svg)
 
