@@ -1,6 +1,8 @@
+# George Steven
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi, I'm George Steven!;你好，我是George Steven;こんにちは、ジョージ・スティーブンです;привет, я Джордж Стивен;مرحبًا ، أنا جورج ستيفن)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello;你好;こんにちは;привет;أهلا)](https://git.io/typing-svg)
+[![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=gst-be)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 A common university student
 - 🌱 A loser in reality
