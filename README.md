@@ -1,8 +1,8 @@
-# Hi! I'm George Steven!
+# Hi! I'm Steven Lynn!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;你好!;こんにちは;привет)](https://git.io/typing-svg)
 
-[![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=gst-be)](https://github.com/anuraghazra/github-readme-stats)
+[![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=gst-be)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 A common university student
 - 🌱 A loser in reality
