@@ -6,6 +6,10 @@
 
 - A college student
 - INTJ
-- Studying a non-computer major and only has fragmented understanding of CS. 
+- Major in EE 
 - Personal blog: [bebebe.be](https://bebebe.be)
-- How to reach me: [gst@bebebe.be](mailto://gst@bebebe.be)
+- Co-founder & editor of [AI Pulse](https://aipulse.one)
+- How to reach me: [stvlynn@icloud.com](mailto://stvlynn@icloud.com)
+
+# More About Me
+- https://bento.me/stevenlynn
