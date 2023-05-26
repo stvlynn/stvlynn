@@ -9,7 +9,7 @@
 - Major in EE 
 - Personal blog: [bebebe.be](https://bebebe.be)
 - Co-founder & editor of [AI Pulse](https://aipulse.one)
-- How to reach me: [stvlynn@icloud.com](mailto://stvlynn@icloud.com)
+- How to reach me: [stvlynn@icloud.com](mailto://i@stv.lol)
 
 # More About Me
 - https://bento.me/stevenlynn
