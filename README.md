@@ -1,6 +1,6 @@
 # Hi! I'm Steven Lynn!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;你好!;こんにちは;привет)](https://git.io/typing-svg)
+![signature](svg-drawing.svg)
 
 [![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stvlynn)](https://github.com/anuraghazra/github-readme-stats)
 
