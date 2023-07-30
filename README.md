@@ -8,7 +8,7 @@
 - INTJ
 - Major in EE
 - AI illustrator
-- Personal page: [bebebe.be](https://stv.lol)
+- Personal page: [stv.lol](https://stv.lol)
 - Blog: [blog.stv.lol](https://blog.stv.lol)
 - Co-founder & editor of [AI Pulse](https://aipulse.one)
-- How to reach me: [stvlynn@icloud.com](mailto://i@stv.lol)
+- How to reach me: [i@stv.lol](mailto://i@stv.lol)
