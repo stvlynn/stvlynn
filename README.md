@@ -1,13 +1,10 @@
-# Hi! I'm Steven Lynn!
+<h2 class="title animate__animated animate__bounce">Hi👋</h2>
+
+# I'm Steven Lynn!
 
 [![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stvlynn)](https://github.com/anuraghazra/github-readme-stats)
 
-
 - How to reach me: [i@stv.lol](mailto://i@stv.lol)
-
-# Hi there 👋
-
-<img align="right" width="400px" src="./github-metrics.svg" />
 
 ## I am
 
@@ -45,3 +42,10 @@ Chinese/English/Japanese
 ## Thanks for visiting!
 
 ![signature](svg-drawing.svg)
+
+<head>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+</head>
