@@ -44,4 +44,4 @@ Chinese/English/Japanese
 
 ## Thanks for visiting!
 
-<img align="middle" width="400px" src="./svg-drawing.svg" />
+<img align="left" width="250px" src="./svg-drawing.svg" />
