@@ -2,8 +2,6 @@
 
 [![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stvlynn)](https://github.com/anuraghazra/github-readme-stats)
 
-- How to reach me: [i@stv.lol](mailto://i@stv.lol)
-
 ## I am
 
 - AI illustrator/researcher
@@ -22,12 +20,19 @@ Chinese/English/Japanese
 
 ### Using
 
-![](https://skillicons.dev/icons?i=vercel,netlify,docker,html,css,python,r,c,cpp,git,sketchup,matlab,workers,wordpress&theme=dark&perline=6)
+![](https://skillicons.dev/icons?i=vercel,netlify,docker,html,css,bash,python,r,c,cpp,git,sketchup,matlab,workers,wordpress,autocad&theme=dark&perline=6)
 
 
 ### Tools
 
 ![](https://skillicons.dev/icons?i=ps,pr,figma,idea,pycharm,vscode,visualstudio&theme=dark&perline=6)
+
+### Systems
+
+![](https://skillicons.dev/icons?i=apple,debian,ubuntu,arch,raspberrypi&theme=dark&perline=6)
+
+## Contacts
+
 
 ## 📊 Contribution grid
 
