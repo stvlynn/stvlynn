@@ -35,7 +35,8 @@ Chinese/English/Japanese
 
 <a href="https://x.com/stv_lynn"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="mailto://i@stv.pm"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="# https://stv/lol" class="button icon arrowdown">More</a>
+
+<a href="https://stv.lol"><a href="#" class="button icon arrowdown">More</a></a>
 
 
 ## 📊 Contribution grid
