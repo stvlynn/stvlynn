@@ -44,4 +44,4 @@ Chinese/English/Japanese
 
 ## Thanks for visiting!
 
-![signature](svg-drawing.svg)
+<img align="left" width="400px" src="./svg-drawing.svg" />
