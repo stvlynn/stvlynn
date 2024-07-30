@@ -1,5 +1,12 @@
 <svg width="600" height="500" viewBox="0 0 600 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-cache="1690127865253">
 <style>
+path.line-0, path.line-1, path.line-2, path.line-3, path.line-4, path.line-5, path.line-6, path.line-7, path.line-8, path.line-9,path.line-10 {
+  stroke: rgb(255, 235, 212);
+}
+path.line-11, path.line-12 {
+  stroke: rgb(240, 168, 208);
+}
+
 path.line-0 {
   stroke-dasharray: 292 297;
   stroke-dashoffset: 292;
@@ -142,9 +149,7 @@ path.line-12 {
   100.06% { stroke-dashoffset: 0; }
   100% { stroke-dashoffset: 0; }
 }
-</style><rect x="0" y="0" width="600" height="500" fill="#fff">
-
-</rect><g mask="url(#brush)">
+</style><g mask="url(#brush)">
 <path d="M196,106L196,102L195,98L193,92L187,86L177,82L164,85L151,92L140,104L133,113L133,119L140,122L151,126L164,131L175,137L180,145L179,154L171,164L158,178L139,191L118,202L100,207L87,207L79,199L79,191L80,189" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke="#000" fill="none" class="line-0">
 
 </path><path d="M192,155L192,154L191,153L193,152L198,152L206,151L214,151L221,150L223,149" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke="#000" fill="none" class="line-1">
