@@ -16,7 +16,7 @@ Chinese/English/Japanese
 
 ### Learning
 
-![](https://skillicons.dev/icons?i=tensorflow,swift,figma,solidity,vue,rust,go,svelte&theme=dark&perline=6)
+![](https://skillicons.dev/icons?i=tensorflow,swift,figma,solidity,nextjs,vue,rust,go,svelte&theme=dark&perline=6)
 
 ### Using
 
