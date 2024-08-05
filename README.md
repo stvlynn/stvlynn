@@ -12,7 +12,7 @@
 
 Chinese/English/Japanese
 
-## 💻 Preferred programming language / Technology stack
+## 💻 Technology stack
 
 ### Learning
 
@@ -39,7 +39,7 @@ Chinese/English/Japanese
 <a href="#" class="button icon arrowdown"><a href="https://stv.lol">More</a></a>
 
 
-## 📊 Contribution grid
+## 📊 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
