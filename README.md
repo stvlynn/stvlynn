@@ -5,7 +5,7 @@
 ## I am
 
 - AI illustrator/researcher
-- Builder & AI dev of @NextWordApp
+- Building [@NextWordApp](https://github.com/NextWordApp) [@AI Tweet](https://x.com/AITweet_app)
 - Co-founder & ex-editor of AI Pulse
 
 ## Languages
