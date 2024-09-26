@@ -4,9 +4,18 @@
 
 ## I am
 
+- Technical writer [@Dify](https://github.com/langgenius)
 - AI illustrator/researcher
 - Building [@NextWordApp](https://github.com/NextWordApp) [@AI Tweet](https://x.com/AITweet_app)
 - Co-founder & ex-editor of AI Pulse
+
+## My LLMs on 🤗HuggingFace
+
+- [Reflection-Chinese-32B](https://huggingface.co/stvlynn/Reflection-Chinese-32B)
+
+- [Gemma-2-2b-Chinese-it](https://huggingface.co/stvlynn/Gemma-2-2b-Chinese-it)
+
+- [Qwen-7B-Chat-Cantonese](https://huggingface.co/stvlynn/Qwen-7B-Chat-Cantonese)
 
 ## Languages
 
