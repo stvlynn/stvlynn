@@ -6,7 +6,7 @@
 
 - Technical writer [@Dify](https://github.com/langgenius)
 - AI illustrator/researcher
-- Building [@NextWordApp](https://github.com/NextWordApp) [@AI Tweet](https://x.com/AITweet_app)
+- Building [@Twi.AM](https://github.com/stvlynn/twi.am) [@AI Tweet](https://x.com/AITweet_app)
 - Co-founder & ex-editor of AI Pulse
 
 ## My LLMs on 🤗HuggingFace
