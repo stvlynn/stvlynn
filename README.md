@@ -4,7 +4,7 @@
 
 ## I am
 
-- Technical writer [@Dify](https://github.com/langgenius)
+- Community Operations Associate [@Dify](https://github.com/langgenius)
 - AI illustrator/researcher
 - Building [@Twi.AM](https://github.com/stvlynn/twi.am) [@AI Tweet](https://x.com/AITweet_app)
 - Co-founder & ex-editor of AI Pulse
