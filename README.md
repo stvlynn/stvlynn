@@ -3,9 +3,8 @@
 [![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stvlynn)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I am
-- User of [@Dify](https://github.com/langgenius)
-- AI illustrator/researcher
-- Building [@Twi.AM](https://github.com/stvlynn/twi.am) [@AI Tweet](https://x.com/AITweet_app)
+- Product Operations
+- AI exporer @[FirstLab](https://1stlab.org)
 - Co-founder & ex-editor of AI Pulse
 
 ## My LLMs on 🤗HuggingFace
