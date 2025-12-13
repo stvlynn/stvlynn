@@ -21,6 +21,11 @@
 </div>
 <!-- markdownlint-enable MD033 MD045 -->
 
+> 欠けたもの抱きしめて
+> *新月怀揣着欠缺之物*
+>
+> 願いを放つよミカヅキ
+> *仍让心愿绽放出光芒*
 
 <div align="center">
 
