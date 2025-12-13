@@ -27,6 +27,8 @@
 
 ## I am
 
+<img align="right" style="float: right;width: 250px;margin: 0 0 20px 20px;border: 1px solid #d9d9d9;border-radius: 4px;" alt="Lynn" src="./oc-lynn.jpeg" />
+
 - Product Operations at Tencent
 - AI exporer @[FirstLab](https://1stlab.org)
 - Founder of CrazyStaur.day
@@ -68,7 +70,29 @@ Chinese/English/Japanese
 </details>
 <!-- markdownlint-enable MD033 -->
 
+## Sticker Pack
+<div align="center">
+  <img src="./icon.png" alt="Lynn-chan" width="200" height="200">
+</div>
 
+| Platform | Preview | Link |
+| --- | --- | --- |
+| Telegram | ![Lynn-chan Sticker](https://s2.loli.net/2025/12/03/RnpxzAsYZw6FqDP.png) | [Add Lynn-chan Sticker Pack](https://t.me/addstickers/lynnchan) |
+
+
+## Dify Plugins
+
+| Name | Description | Repo |
+| --- | --- | --- |
+| `lmstudio` | Connect LM Studio local models to Dify (Model provider plugin). | [stvlynn/lmstudio-Dify-Plugin](https://github.com/stvlynn/lmstudio-Dify-Plugin) |
+| `RSSHub` | Access RSS feeds from RSSHub through Dify. | [stvlynn/RSSHub-Dify-Plugin](https://github.com/stvlynn/RSSHub-Dify-Plugin) |
+| `SSH` | Execute commands on remote servers via SSH (password or private key auth). | [stvlynn/SSH-Dify-Plugin](https://github.com/stvlynn/SSH-Dify-Plugin) |
+| `DOC` | Convert Markdown text into a Word DOCX document (WPS/Office compatible). | [stvlynn/DOC-Dify-Plugin](https://github.com/stvlynn/DOC-Dify-Plugin) |
+| `ffmpeg` | Video/audio processing & conversion (info, convert, trim, compress, extract audio). | [stvlynn/ffmpeg-Dify-Plugin](https://github.com/stvlynn/ffmpeg-Dify-Plugin) |
+
+## Join CrazyStaur.day
+
+![](wechat.png)
 
 ## 📊 Contributions
 
