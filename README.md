@@ -22,8 +22,11 @@
 <!-- markdownlint-enable MD033 MD045 -->
 
 
+<div align="center">
 
 [![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stvlynn)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ### I am
 
