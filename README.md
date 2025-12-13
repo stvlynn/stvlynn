@@ -25,7 +25,7 @@
 
 [![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stvlynn)](https://github.com/anuraghazra/github-readme-stats)
 
-## I am
+### I am
 
 <img align="right" style="float: right;width: 250px;margin: 0 0 20px 20px;border: 1px solid #d9d9d9;border-radius: 4px;" alt="Lynn" src="./oc-lynn.jpeg" />
 
@@ -33,7 +33,7 @@
 - AI exporer @[FirstLab](https://1stlab.org)
 - Founder of CrazyStaur.day
 
-## My LLMs on 🤗HuggingFace
+### My LLMs on 🤗HuggingFace
 
 - [Reflection-Chinese-32B](https://huggingface.co/stvlynn/Reflection-Chinese-32B)
 
@@ -41,11 +41,11 @@
 
 - [Qwen-7B-Chat-Cantonese](https://huggingface.co/stvlynn/Qwen-7B-Chat-Cantonese)
 
-## Languages
+### I speak
 
 Chinese/English/Japanese
 
-## 💻 Technology stack
+### 💻 Technology stack
 
 <!-- markdownlint-disable MD033 -->
 <details>
@@ -70,7 +70,7 @@ Chinese/English/Japanese
 </details>
 <!-- markdownlint-enable MD033 -->
 
-## Sticker Pack
+### Sticker Pack
 <div align="center">
   <img src="./icon.png" alt="Lynn-chan" width="200" height="200">
 </div>
@@ -80,7 +80,7 @@ Chinese/English/Japanese
 | Telegram | ![Lynn-chan Sticker](https://s2.loli.net/2025/12/03/RnpxzAsYZw6FqDP.png) | [Add Lynn-chan Sticker Pack](https://t.me/addstickers/lynnchan) |
 
 
-## Dify Plugins
+### Dify Plugins
 
 | Name | Description | Repo |
 | --- | --- | --- |
@@ -90,11 +90,11 @@ Chinese/English/Japanese
 | `DOC` | Convert Markdown text into a Word DOCX document (WPS/Office compatible). | [stvlynn/DOC-Dify-Plugin](https://github.com/stvlynn/DOC-Dify-Plugin) |
 | `ffmpeg` | Video/audio processing & conversion (info, convert, trim, compress, extract audio). | [stvlynn/ffmpeg-Dify-Plugin](https://github.com/stvlynn/ffmpeg-Dify-Plugin) |
 
-## Join CrazyStaur.day
+### Join CrazyStaur.day
 
 ![](wechat.png)
 
-## 📊 Contributions
+### 📊 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
