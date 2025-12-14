@@ -39,7 +39,7 @@
 
 - Product Operations at Tencent
 - AI exporer @[FirstLab](https://1stlab.org)
-- Founder of CrazyStaur.day
+- Host of CrazyStaur.day
 
 ### My LLMs on 🤗HuggingFace
 
