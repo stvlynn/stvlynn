@@ -37,7 +37,6 @@
 
 <img align="right" style="float: right;width: 250px;margin: 0 0 20px 20px;border: 1px solid #d9d9d9;border-radius: 4px;" alt="Lynn" src="./oc-lynn.jpeg" />
 
-- Product Operations at Tencent
 - AI exporer @[FirstLab](https://1stlab.org)
 - Host of CrazyStaur.day
 
