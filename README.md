@@ -29,7 +29,7 @@
 
 <div align="center">
 
-[![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stvlynn)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/stvlynn?lang=zh)](https://ghfind.com/u/stvlynn?ref=badge)
 
 </div>
 
