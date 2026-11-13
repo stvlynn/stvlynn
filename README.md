@@ -37,7 +37,8 @@
 
 <img align="right" style="float: right;width: 250px;margin: 0 0 20px 20px;border: 1px solid #d9d9d9;border-radius: 4px;" alt="Lynn" src="./oc-lynn.jpeg" />
 
-- AI exporer @[FirstLab](https://1stlab.org)
+- Core Member of [AstraFoundry](https://github.com/AstraFoundry)
+- Exporer @[FirstLab](https://1stlab.org)
 - Host of CrazyStaur.day
 
 ### My LLMs on 🤗HuggingFace
@@ -52,30 +53,6 @@
 
 Chinese/English/Japanese
 
-### 💻 Technology stack
-
-<!-- markdownlint-disable MD033 -->
-<details>
-  <summary><strong>Tech Stack</strong></summary>
-
-### Learning
-
-![](https://skillicons.dev/icons?i=tensorflow,swift,figma,solidity,nextjs,vue,rust,go,svelte&theme=dark&perline=6)
-
-### Using
-
-![](https://skillicons.dev/icons?i=vercel,netlify,docker,html,css,bash,python,r,c,cpp,git,sketchup,matlab,workers,wordpress,autocad&theme=dark&perline=6)
-
-### Tools
-
-![](https://skillicons.dev/icons?i=ps,pr,figma,idea,pycharm,vscode,visualstudio&theme=dark&perline=6)
-
-### Systems
-
-![](https://skillicons.dev/icons?i=apple,debian,ubuntu,arch,raspberrypi&theme=dark&perline=6)
-
-</details>
-<!-- markdownlint-enable MD033 -->
 
 ### Sticker Pack
 <div align="center">
