@@ -1,31 +1,7 @@
 <!-- markdownlint-disable MD033 MD045 -->
 <h1 align="center">Hi!👋 I'm Steven Lynn!</h1>
 
-<div align="center">
-  <a href="https://x.com/stv_lynn">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-@stv_lynn-1DA1F2?style=flat-square&logo=twitter&logoColor=white" height="22" />
-  </a>
-  <a href="https://t.me/stvlynn">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@stvlynn-26A5E4?style=flat-square&logo=telegram&logoColor=white" height="22" />
-  </a>
-  <a href="https://buymeacoffee.com/stvlynn">
-    <img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-@stvlynn-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=000000" height="22" />
-  </a>
-  <a href="mailto:i@stv.pm">
-    <img alt="Email" src="https://img.shields.io/badge/Email-i%40stv.pm-D14836?style=flat-square&logo=gmail&logoColor=white" height="22" />
-  </a>
-  <a href="https://www.linkedin.com/in/hongyiling">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-hongyiling-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="22" />
-  </a>
-  <br/>
-</div>
-<!-- markdownlint-enable MD033 MD045 -->
-
-> 欠けたもの抱きしめて
-> *新月怀揣着欠缺之物*
->
-> 願いを放つよミカヅキ
-> *仍让心愿绽放出光芒*
+![TypeScript, React, Claude, Docker, Arion, ChatGPT, Cursor](https://spine.stv.pm/shelf.svg?s=badge:typescript&s=badge:react&s=badge:claude&s=badge:docker&s=art:arion&s=art:chatgpt&s=badge:cursor&size=430)
 
 <div align="center">
 
@@ -38,7 +14,7 @@
 <img align="right" style="float: right;width: 250px;margin: 0 0 20px 20px;border: 1px solid #d9d9d9;border-radius: 4px;" alt="Lynn" src="./oc-lynn.jpeg" />
 
 - Core Member of [AstraFoundry](https://github.com/AstraFoundry)
-- Exporer @[FirstLab](https://1stlab.org)
+- @[FirstLab](https://1stlab.org)
 - Host of CrazyStaur.day
 
 ### My LLMs on 🤗HuggingFace
