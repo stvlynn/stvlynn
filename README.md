@@ -1,9 +1,9 @@
 <!-- markdownlint-disable MD033 MD045 -->
 <h1 align="center">Hi!👋 I'm Steven Lynn!</h1>
 
-![TypeScript, React, Claude, Docker, Arion, ChatGPT, Cursor](https://spine.stv.pm/shelf.svg?s=badge:typescript&s=badge:react&s=badge:claude&s=badge:docker&s=art:arion&s=art:chatgpt&s=badge:cursor&size=430)
-
 <div align="center">
+
+![TypeScript, React, Claude, Docker, Arion, ChatGPT, Cursor](https://spine.stv.pm/shelf.svg?s=badge:typescript&s=badge:react&s=badge:claude&s=badge:docker&s=art:arion&s=art:chatgpt&s=badge:cursor&layout=stack&size=430)
 
 [![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/stvlynn?lang=zh)](https://ghfind.com/u/stvlynn?ref=badge)
 
