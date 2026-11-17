@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![TypeScript, React, Claude, Docker, Arion, ChatGPT, Cursor](https://spine.stv.pm/shelf.svg?s=badge:typescript&s=badge:react&s=badge:claude&s=badge:docker&s=art:arion&s=art:chatgpt&s=badge:cursor&layout=stack&size=430)
+![TypeScript, React, Claude, Cursor, powercontext, Dify, Go, Cloudflare, PostgreSQL](https://spine.stv.pm/shelf.svg?s=badge:typescript&s=badge:react&s=badge:claude&s=badge:cursor&s=art:powercontext&s=badge:dify&s=badge:go&s=badge:cloudflare&s=badge:postgresql&layout=stack)
 
 [![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/stvlynn?lang=zh)](https://ghfind.com/u/stvlynn?ref=badge)
 
