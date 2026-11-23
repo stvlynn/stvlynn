@@ -17,6 +17,12 @@
 - @[FirstLab](https://1stlab.org)
 - Host of CrazyStaur.day
 
+<div align="center">
+<b>Join Discord group! ⬇️ 加入我的 Discord 群组</b>
+
+[![Discord](https://spine.stv.pm/badge/discord.svg)](https://discord.gg/PwZDHH4mv3)
+</div>
+
 ### My LLMs on 🤗HuggingFace
 
 - [Reflection-Chinese-32B](https://huggingface.co/stvlynn/Reflection-Chinese-32B)
